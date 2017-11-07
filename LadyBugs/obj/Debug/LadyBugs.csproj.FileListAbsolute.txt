@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\LadyBugs\bin\Debug\LadyBugs.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\LadyBugs\bin\Debug\LadyBugs.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\LadyBugs\bin\Debug\LadyBugs.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\LadyBugs\obj\Debug\LadyBugs.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\LadyBugs\obj\Debug\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\LadyBugs\obj\Debug\LadyBugs.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\LadyBugs\obj\Debug\LadyBugs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\FilesNakov\bin\Debug\FilesNakov.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\FilesNakov\bin\Debug\FilesNakov.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\FilesNakov\bin\Debug\FilesNakov.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\FilesNakov\obj\Debug\FilesNakov.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\FilesNakov\obj\Debug\FilesNakov.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\FilesNakov\obj\Debug\FilesNakov.pdb

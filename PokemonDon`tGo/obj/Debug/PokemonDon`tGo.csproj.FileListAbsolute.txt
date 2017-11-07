@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokemonDon`tGo\bin\Debug\PokemonDon`tGo.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokemonDon`tGo\bin\Debug\PokemonDon`tGo.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokemonDon`tGo\bin\Debug\PokemonDon`tGo.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokemonDon`tGo\obj\Debug\PokemonDon`tGo.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokemonDon`tGo\obj\Debug\PokemonDon`tGo.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokemonDon`tGo\obj\Debug\PokemonDon`tGo.pdb

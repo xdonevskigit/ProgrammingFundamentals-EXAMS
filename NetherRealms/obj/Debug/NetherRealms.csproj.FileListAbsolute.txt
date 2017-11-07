@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\NetherRealms\bin\Debug\NetherRealms.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\NetherRealms\bin\Debug\NetherRealms.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\NetherRealms\bin\Debug\NetherRealms.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\NetherRealms\obj\Debug\NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\NetherRealms\obj\Debug\NetherRealms.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\NetherRealms\obj\Debug\NetherRealms.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\NetherRealms\obj\Debug\NetherRealms.csprojResolveAssemblyReference.cache

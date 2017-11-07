@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuit\bin\Debug\RageQuit.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuit\bin\Debug\RageQuit.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuit\bin\Debug\RageQuit.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuit\obj\Debug\RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuit\obj\Debug\RageQuit.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuit\obj\Debug\RageQuit.pdb

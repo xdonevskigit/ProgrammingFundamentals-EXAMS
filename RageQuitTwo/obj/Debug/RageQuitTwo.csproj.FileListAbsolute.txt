@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuitTwo\bin\Debug\RageQuitTwo.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuitTwo\bin\Debug\RageQuitTwo.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuitTwo\bin\Debug\RageQuitTwo.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuitTwo\obj\Debug\RageQuitTwo.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuitTwo\obj\Debug\RageQuitTwo.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuitTwo\obj\Debug\RageQuitTwo.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\RageQuitTwo\obj\Debug\RageQuitTwo.pdb

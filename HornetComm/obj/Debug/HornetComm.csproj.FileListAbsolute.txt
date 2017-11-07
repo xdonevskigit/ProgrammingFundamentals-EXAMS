@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetComm\bin\Debug\HornetComm.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetComm\bin\Debug\HornetComm.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetComm\bin\Debug\HornetComm.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetComm\obj\Debug\HornetComm.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetComm\obj\Debug\HornetComm.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetComm\obj\Debug\HornetComm.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetComm\obj\Debug\HornetComm.csprojResolveAssemblyReference.cache

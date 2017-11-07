@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SweetDesert\bin\Debug\SweetDesert.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SweetDesert\bin\Debug\SweetDesert.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SweetDesert\bin\Debug\SweetDesert.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SweetDesert\obj\Debug\SweetDessert.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SweetDesert\obj\Debug\SweetDessert.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SweetDesert\obj\Debug\SweetDesert.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SweetDesert\obj\Debug\SweetDesert.pdb

@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetArmadaTwo\bin\Debug\HornetArmadaTwo.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetArmadaTwo\bin\Debug\HornetArmadaTwo.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetArmadaTwo\bin\Debug\HornetArmadaTwo.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetArmadaTwo\obj\Debug\HornetArmadaTwo.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetArmadaTwo\obj\Debug\HornetArmadaTwo.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\HornetArmadaTwo\obj\Debug\HornetArmadaTwo.pdb

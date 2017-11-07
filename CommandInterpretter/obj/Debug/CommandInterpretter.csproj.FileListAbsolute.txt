@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CommandInterpretter\bin\Debug\CommandInterpretter.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CommandInterpretter\bin\Debug\CommandInterpretter.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CommandInterpretter\bin\Debug\CommandInterpretter.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CommandInterpretter\obj\Debug\CommandInterpretter.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CommandInterpretter\obj\Debug\CommandInterpretter.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CommandInterpretter\obj\Debug\CommandInterpretter.pdb

@@ -1,0 +1,6 @@
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\EnduranceRally\bin\Debug\EnduranceRally.exe.config
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\EnduranceRally\bin\Debug\EnduranceRally.exe
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\EnduranceRally\bin\Debug\EnduranceRally.pdb
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\EnduranceRally\obj\Debug\EnduranceRally.csproj.CoreCompileInputs.cache
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\EnduranceRally\obj\Debug\EnduranceRally.exe
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\EnduranceRally\obj\Debug\EnduranceRally.pdb

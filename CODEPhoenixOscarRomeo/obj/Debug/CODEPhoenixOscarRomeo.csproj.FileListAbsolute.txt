@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CODEPhoenixOscarRomeo\bin\Debug\CODEPhoenixOscarRomeo.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CODEPhoenixOscarRomeo\bin\Debug\CODEPhoenixOscarRomeo.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CODEPhoenixOscarRomeo\bin\Debug\CODEPhoenixOscarRomeo.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CODEPhoenixOscarRomeo\obj\Debug\CODEPhoenixOscarRomeo.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CODEPhoenixOscarRomeo\obj\Debug\CODEPhoenixOscarRomeo.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CODEPhoenixOscarRomeo\obj\Debug\CODEPhoenixOscarRomeo.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CODEPhoenixOscarRomeo\obj\Debug\CODEPhoenixOscarRomeo.pdb

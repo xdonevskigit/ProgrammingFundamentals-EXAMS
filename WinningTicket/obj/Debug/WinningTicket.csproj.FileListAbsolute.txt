@@ -1,0 +1,7 @@
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\WinningTicket\bin\Debug\WinningTicket.exe.config
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\WinningTicket\bin\Debug\WinningTicket.exe
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\WinningTicket\bin\Debug\WinningTicket.pdb
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\WinningTicket\obj\Debug\WinningTicket.csprojResolveAssemblyReference.cache
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\WinningTicket\obj\Debug\WinningTicket.csproj.CoreCompileInputs.cache
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\WinningTicket\obj\Debug\WinningTicket.exe
+c:\users\icaka\source\repos\ProgrammingFundamentals-EXAMS\WinningTicket\obj\Debug\WinningTicket.pdb

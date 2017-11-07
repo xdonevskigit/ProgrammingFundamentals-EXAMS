@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Cubic`sMessages\bin\Debug\Cubic`sMessages.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Cubic`sMessages\bin\Debug\Cubic`sMessages.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Cubic`sMessages\bin\Debug\Cubic`sMessages.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Cubic`sMessages\obj\Debug\Cubic`sMessages.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Cubic`sMessages\obj\Debug\Cubic`sMessages.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Cubic`sMessages\obj\Debug\Cubic`sMessages.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Cubic`sMessages\obj\Debug\Cubic`sMessages.pdb

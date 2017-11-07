@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokeMon\bin\Debug\PokeMon.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokeMon\bin\Debug\PokeMon.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokeMon\bin\Debug\PokeMon.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokeMon\obj\Debug\PokeMon.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokeMon\obj\Debug\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokeMon\obj\Debug\PokeMon.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\PokeMon\obj\Debug\PokeMon.pdb

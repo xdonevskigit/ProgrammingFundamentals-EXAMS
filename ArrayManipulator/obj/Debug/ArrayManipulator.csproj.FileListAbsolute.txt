@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\ArrayManipulator\obj\Debug\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\ArrayManipulator\obj\Debug\ArrayManipulator.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache

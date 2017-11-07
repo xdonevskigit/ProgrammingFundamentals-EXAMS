@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Files\bin\Debug\Files.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Files\bin\Debug\Files.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Files\bin\Debug\Files.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Files\obj\Debug\Files.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\Files\obj\Debug\Files.pdb

@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CharityMarathon\bin\Debug\CharityMarathon.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CharityMarathon\bin\Debug\CharityMarathon.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CharityMarathon\bin\Debug\CharityMarathon.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CharityMarathon\obj\Debug\CharityMarathon.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CharityMarathon\obj\Debug\CharityMarathon.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CharityMarathon\obj\Debug\CharityMarathon.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\CharityMarathon\obj\Debug\CharityMarathon.pdb

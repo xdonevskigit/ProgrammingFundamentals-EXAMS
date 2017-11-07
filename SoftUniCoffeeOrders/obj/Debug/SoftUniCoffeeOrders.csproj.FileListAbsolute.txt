@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.exe.config
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.exe
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.pdb
+C:\Users\Icaka\source\repos\ProgrammingFundamentals-EXAMS\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.csprojResolveAssemblyReference.cache
